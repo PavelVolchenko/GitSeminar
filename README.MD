@@ -1,1 +1,3 @@
 Git seminar
+
+new line
